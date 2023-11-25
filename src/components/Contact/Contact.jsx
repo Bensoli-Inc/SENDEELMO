@@ -4,7 +4,16 @@ import {MdCall} from 'react-icons/md'
 import {BsFillChatDotsFill} from 'react-icons/bs'
 import {HiChatBubbleBottomCenter} from 'react-icons/hi2' 
 
+
+function openWhatsApp () {
+        const phoneNumber = "+254748525208"
+        const whatsappLink = "https://wa.me/+254748525208"
+        window.open(whatsappLink)
+    }
+
+
 const Contact = () => {
+    
     return (
         <section className="c-wrapper">
             <div className="paddings innerWidth flexCenter c-container">
@@ -44,7 +53,7 @@ const Contact = () => {
                                         <span className="secondaryText">0790998545</span>
                                     </div>
                                 </div>
-                                <div className="flexCenter button">
+                                <div className="flexCenter button" onClick={openWhatsApp}>
                                     Chat Now
                                 </div>
                             </div>
