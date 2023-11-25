@@ -7,7 +7,7 @@ import {HiChatBubbleBottomCenter} from 'react-icons/hi2'
 
 function openWhatsApp () {
         const phoneNumber = "+254790998545"
-        const whatsappLink = "https://wa.me/+254748525208"
+        const whatsappLink = "https://wa.me/+254790998545"
         window.open(whatsappLink)
     }
 
