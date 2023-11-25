@@ -6,9 +6,16 @@ import {HiChatBubbleBottomCenter} from 'react-icons/hi2'
 
 
 function openWhatsApp () {
+    const phoneNumber = "+254790998545"
+    const whatsappLink = "https://wa.me/+254790998545"
+    window.open(whatsappLink)
+}
+
+
+function callMe () {
         const phoneNumber = "+254790998545"
-        const whatsappLink = "https://wa.me/+254790998545"
-        window.open(whatsappLink)
+        const telLink = "tel:" +254790998545;
+        window.location.href = telLink;
     }
 
 
@@ -37,7 +44,7 @@ const Contact = () => {
                                         <span className="secondaryText">0790998545</span>
                                     </div>
                                 </div>
-                                <div className="flexCenter button">
+                                <div className="flexCenter button" onClick={callMe}>
                                     Call Now
                                 </div>
                             </div>
