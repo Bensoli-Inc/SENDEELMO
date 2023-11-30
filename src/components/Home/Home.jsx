@@ -62,7 +62,7 @@ const Home = () => {
                 </div>
                 <div>
                 <div className="white-gradient light"/>
-                    <img src="./equinix.png" alt="" />
+                   
                 </div>
                
                 
