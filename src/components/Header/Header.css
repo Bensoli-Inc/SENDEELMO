@@ -1,6 +1,7 @@
 .h-wrapper {
     color: white;
     z-index: 99;
+    background-color: var(--black);
 }
 
 .h-container {
