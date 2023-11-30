@@ -11,7 +11,7 @@ function App() {
       <div>
         
           <Header />
-        
+        <div className="white-gradient" />
           <Home /> 
        
       </div>
