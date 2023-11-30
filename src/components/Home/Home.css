@@ -4,9 +4,25 @@
     color: white;
     position: relative;
     padding-bottom: 2rem;
+    background-color: var(--black);
     z-index: 1;
+    background-image: url(./home.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding: 2rem;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), var(--black)), url(./home.jpeg);
+    background-size: cover;
     display: grid;
     grid-template-columns: 1fr 1fr;
+}
+
+.hero-container::before {
+    position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%; /* Adjust the width of the gradient overlay */
+  height: 100%;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
 }
 
 /*Right side */
@@ -32,9 +48,18 @@
 /*left side*/
 
 .hero-left {
-    gap: 3rem;
+    gap: 1.5rem;
     margin-bottom: 2rem;
+    padding-left: 3rem;
+    padding-top: 3rem;
+    
 }
+ .empower {
+    
+    font-size: 1.1rem;
+    line-height: 2rem;
+    color: rgb(231, 211, 193);
+ }
 
 .hero-title {
     position: relative;
@@ -43,9 +68,11 @@
 
 .hero-title>h1{
     font-weight: 600;
-    font-size: 3.8rem;
-    line-height: 4rem;
+    font-size: 4rem;
+    line-height: 4.2rem;
+    color: rgb(255, 215, 210);
 }
+
 
 .orange-circle {
     height: 3.5rem;
@@ -75,6 +102,11 @@
     color: orange;
 }
 
+.light {
+        
+    background-color: blue;
+}
+
 @media (max-width: 900px) {
     .image-container{
         height: 22rem;
@@ -84,19 +116,23 @@
 @media (max-width: 1000px) {
     .hero-container{
         margin-top: 2rem;
-        grid-template-columns: 1fr;
     }
 }
 
 @media (max-width: 640px) {
     .hero-container{
         margin-top: 2rem;
-        grid-template-columns: 1fr;
-        padding-bottom: 0.01rem;
+        padding-bottom: 2rem;
     }
     .hero-title>h1 {
         font-size: 2.5rem;
         line-height: 3rem;
+    }
+    .hero-left {
+        gap: 1.2rem;
+        margin-bottom: 1rem;
+        padding-left: 1rem;
+        padding-top: 1rem;
     }
     .image-container {
         width: 95%;
