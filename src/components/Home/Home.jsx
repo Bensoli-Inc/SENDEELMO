@@ -11,6 +11,7 @@ const Home = () => {
                  
 
                 <div className="flexColStart hero-left " >
+                <div className="white-gradient" />
                     <div className="hero-title title1">
                         <div className="orange-circle" />
                         <motion.h1
@@ -57,11 +58,12 @@ const Home = () => {
                         </span>
                         <span className='secondaryText'>Award Winnings</span> 
                         </div>
+                        
                     </div>
                     
                 </div>
-                <div>
-                <div >
+
+                <div className='rait'>
                     <div className="white-gradient light"/>
                 </div>
                
