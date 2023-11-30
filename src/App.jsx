@@ -10,8 +10,9 @@ function App() {
     <div className="App">
       <div>
         <div className="white-gradient"/>
-        <Header />
-        <Home /> 
+          <Header />
+          <Home /> 
+       
       </div>
       <Contact />
       <Booking />
