@@ -121,17 +121,16 @@
 
 @media (max-width: 640px) {
     .hero-container{
-        margin-top: 2rem;
+        margin-top: 3rem;
         padding-bottom: 2rem;
     }
     .hero-title>h1 {
-        font-size: 2.5rem;
-        line-height: 3rem;
+        font-size: 2.8rem;
+        line-height: 3.2rem;
     }
     .hero-left {
         gap: 1.2rem;
         margin-bottom: 1rem;
-        padding-left: 1rem;
         padding-top: 1rem;
     }
     .image-container {
@@ -148,7 +147,7 @@
         width: 100%;
     }
     .stat>:nth-child(1) {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
     .stat>:nth-child(2) {
         font-size: 0.8rem;
