@@ -36,6 +36,7 @@ a {
   flex-wrap: wrap;
 }
 
+.light
 .flexStart {
   display: flex;
   justify-content: flex-start;
