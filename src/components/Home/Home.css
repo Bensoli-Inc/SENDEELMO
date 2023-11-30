@@ -9,10 +9,9 @@
     background-size: cover;
     background-position: center;
     padding: 2rem;
-    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), var(--black)), url(public./home.jpeg);
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), var(--black)), url(./home.jpeg);
     background-size: cover;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+
 }
 
 .hero-container::before {
