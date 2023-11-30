@@ -115,13 +115,13 @@
 
 @media (max-width: 1000px) {
     .hero-container{
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
 }
 
 @media (max-width: 640px) {
     .hero-container{
-        margin-top: 3rem;
+        margin-top: 1rem;
         padding-bottom: 2rem;
     }
     .hero-title>h1 {
