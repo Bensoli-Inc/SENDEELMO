@@ -4,7 +4,7 @@ import './App.css'
 import Contact from "./components/Contact/Contact";
 import Booking from "./components/Booking/Booking";
 import Footer from "./components/Footer/Footer";
-import Back from "./components/back/back";
+import Back from "./components/Back/Back";
 
 function App() {
   return (
