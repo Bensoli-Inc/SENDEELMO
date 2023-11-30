@@ -122,8 +122,8 @@
 @media (max-width: 640px) {
     .hero-container{
         padding: 0.6rem;
-        margin-top: 0.5rem;
-        padding-bottom: 2rem;
+        margin-top: 1rem;
+        padding-bottom: 5rem;
         grid-template-columns: 1fr 1fr;
     }
     
@@ -139,8 +139,8 @@
     
 }
     .empower {
-    font-size: 0.8rem;
-    line-height: 1.3rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
  }
     .image-container {
         width: 95%;
