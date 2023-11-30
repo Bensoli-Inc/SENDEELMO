@@ -7,7 +7,7 @@ import {motion} from 'framer-motion'
 const Home = () => {
     return (
             <section>
-            <div className=" paddings innerWidth hero-container ">
+            <div className="flexColColStart paddings innerWidth hero-container ">
                  
 
                 <div className="flexColStart hero-left " >
