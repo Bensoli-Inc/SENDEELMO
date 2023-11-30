@@ -15,7 +15,9 @@ const Header = () => {
     return (
          <section className="h-wrapper">
             <div className="flexCenter innerWidth paddings h-container">
-                <img src="public./logo.png" alt="logo"  width={100}/>
+               <div>
+                    <img src="./logo.png" alt="logo"  width={100}/>
+                </div>
                 
             <OutsideClickHandler
             onOutsideClick={() => {
