@@ -11,6 +11,7 @@ function App() {
       <div>
         <div className="white-gradient"/>
           <Header />
+        <div className="white-gradient" />
           <Home /> 
        
       </div>
