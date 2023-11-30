@@ -11,7 +11,7 @@ const Home = () => {
                  
 
                 <div className="flexColStart hero-left " >
-                <div className="white-gradient" />
+            
                     <div className="hero-title title1">
                         <div className="orange-circle" />
                         <motion.h1
