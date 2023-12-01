@@ -125,8 +125,7 @@
         margin-top: 2rem;
         padding-bottom: 4.5rem;
         grid-template-columns: 1fr 1fr;
-        background-size: auto; /* Adjust the property for your specific design needs */
-        height: 30rem; 
+        background-size: auto; 
     }
     
     .hero-title>h1 {
