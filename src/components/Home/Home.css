@@ -164,10 +164,6 @@
     .stat>:nth-child(2) {
         font-size: 0.8rem;
     }
-    .orange {
-         display: flex;
-    justify-content: flex-end;
-    }
     .orange-circle {
     height: 3rem;
     width: 3rem;
