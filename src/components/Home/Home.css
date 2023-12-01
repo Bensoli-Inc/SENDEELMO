@@ -71,6 +71,8 @@
     font-size: 4rem;
     line-height: 4.2rem;
     color: rgb(255, 215, 210);
+    position: relative;
+    z-index: 1;
 }
 
 
