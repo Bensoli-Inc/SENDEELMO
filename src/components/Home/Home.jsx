@@ -14,7 +14,7 @@ const Home = () => {
             
                     <div className="hero-title title1">
         
-                        <div className="orange-circle" />
+                    
                        
                         <motion.h1
                         initial={{y: "2rem", opacity: 0}}
