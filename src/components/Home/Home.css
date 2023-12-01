@@ -163,6 +163,8 @@
         font-size: 0.8rem;
     }
     .orange-circle {
+    display: flex;
+    justify-content: flex-end;
     height: 3rem;
     width: 3rem;
     right: 42%;
