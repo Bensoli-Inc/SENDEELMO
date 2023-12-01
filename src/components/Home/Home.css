@@ -124,21 +124,21 @@
 @media (max-width: 640px) {
     .hero-container{
         padding: 0.6rem;
-        margin-top: 2rem;
+        margin-top: 2.2rem;
         padding-bottom: 4.5rem;
         grid-template-columns: 1fr 1fr;
         background-size: auto; 
     }
     
     .hero-title>h1 {
-        font-size: 2.7rem;
-        line-height: 3.2rem;
+        font-size: 2.9rem;
+        line-height: 4rem;
     }
     .hero-left {
-    gap: 1.4rem;
+    gap: 2rem;
     margin-bottom: 3rem;
-    padding-left: 1.4rem;
-    padding-top: 4rem;
+    padding-left: 1.3rem;
+    padding-top: 4.5rem;
     
 }
     .empower {
@@ -153,16 +153,16 @@
     }
     .stats {
         justify-content: center;
-        gap: 1.5rem;
+        gap: 2rem;
     }
     .hero-right {
         width: 100%;
     }
     .stat>:nth-child(1) {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
     .stat>:nth-child(2) {
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }
     .orange-circle {
     height: 3rem;
