@@ -24,7 +24,7 @@ const Home = () => {
                             type: "spring"
                         }}
                         > 
-                            SENDEELM<div className="orange-circle" />O <br />
+                            SENDEELMO <br />
                             Electrical & <br /> Security Services 
                         </motion.h1>
                     </div>
