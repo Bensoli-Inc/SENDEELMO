@@ -24,14 +24,15 @@ const Home = () => {
                             type: "spring"
                         }}
                         > 
-                            SENDEELMO <br />
-                            Electrical & <br /> Security Services 
+                            SENTELMO <br />
+                            Engineering 
+                            <br /> Technologies
                         </motion.h1>
                     </div>
 
                     <div className=" flexColStart">
-                        <span className=' secondaryText'>Illuminating spaces with innovation and seamless</span>
-                        <span className='secondaryText'>electrical solutions.</span>
+                        <span className=' secondaryText'> Hire us for all Electrical, Security, &  </span>
+                        <span className='secondaryText'>Maintenance Operations.</span>
                     </div>
                     
                 
