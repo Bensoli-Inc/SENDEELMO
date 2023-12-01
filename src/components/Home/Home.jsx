@@ -66,7 +66,9 @@ const Home = () => {
                 </div>
 
                 <div className='rait'>
+                    <div className="orange-circle" />
                     <div className="white-gradient light"/>
+                    
                 </div>
                
                 
