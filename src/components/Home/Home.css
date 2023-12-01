@@ -162,14 +162,15 @@
     .stat>:nth-child(2) {
         font-size: 0.8rem;
     }
-    .orange-circle {
-    display: flex;
+    .orange {
+         display: flex;
     justify-content: flex-end;
+    }
+    .orange-circle {
     height: 3rem;
     width: 3rem;
-    right: 42%;
-    top: -15%;
-   
+    right: 28%;
+    top: -10%;   
 }
 }
 
