@@ -23,8 +23,8 @@ const Home = () => {
                             duration: 2, 
                             type: "spring"
                         }}
-                        >
-                            SENDEELMO <br />
+                        > 
+                            SENDEELM<div><div className="orange-circle" /></div>O <br />
                             Electrical & <br /> Security Services 
                         </motion.h1>
                     </div>
