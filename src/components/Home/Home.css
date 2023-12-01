@@ -162,6 +162,13 @@
     .stat>:nth-child(2) {
         font-size: 0.8rem;
     }
+    .orange-circle {
+    height: 3rem;
+    width: 3rem;
+    right: 42%;
+    top: -15%;
+   
+}
 }
 
 
