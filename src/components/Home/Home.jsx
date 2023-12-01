@@ -13,7 +13,9 @@ const Home = () => {
                 <div className="flexColStart hero-left " >
             
                     <div className="hero-title title1">
-                        <div className="orange-circle" />
+                        <div className="orange">
+                             <div className="orange-circle" />
+                        </div>
                         <motion.h1
                         initial={{y: "2rem", opacity: 0}}
                         animate={{y: 0, opacity: 1}}
