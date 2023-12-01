@@ -28,8 +28,8 @@ const Home = () => {
                     </div>
 
                     <div className=" flexColStart">
-                        <span className=' empower'>Illuminating spaces with innovation</span>
-                        <span className='empower'>and seamless electrical solutions.</span>
+                        <span className=' empower'>Illuminating spaces with innovation and seamless</span>
+                        <span className='empower'>electrical solutions.</span>
                     </div>
                     
                 
