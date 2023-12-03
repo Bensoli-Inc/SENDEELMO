@@ -26,7 +26,7 @@ const Home = () => {
                         > 
                             SENTELMO <br />
                             Engineering 
-                            <br /> Technologies
+                            <br /> Services
                         </motion.h1>
                     </div>
 
