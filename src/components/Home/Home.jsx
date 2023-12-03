@@ -43,7 +43,7 @@ const Home = () => {
                     <div className=" flexColCenter service">
                         <li>&#10003; <span className="secondaryText">Wiring connection</span></li>
                         <li>&#10003; <span className="secondaryText">CCTV installation</span></li>
-                        <li>&#10003; <span className="secondaryText">Solar Panel installation</span></li>
+                        09<li>&#10003; <span className="secondaryText">Solar Back-up installation</span></li>
                         <li>&#10003; <span className="secondaryText">Electric fence installation</span></li>
                         <li>&#10003; <span className="secondaryText">Fault diagnosis & maintenance</span></li>
                     </div>           
