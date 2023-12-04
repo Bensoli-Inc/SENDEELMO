@@ -40,13 +40,7 @@ const Home = () => {
                             <br /> Services
                         </motion.h1>
                     </div>  
-                    <div className=" flexColCenter service">
-                        <li>&#10003; <span className="secondaryText">Wiring connection</span></li>
-                        <li>&#10003; <span className="secondaryText">CCTV installation</span></li>
-                        09<li>&#10003; <span className="secondaryText">Solar Back-up installation</span></li>
-                        <li>&#10003; <span className="secondaryText">Electric fence installation</span></li>
-                        <li>&#10003; <span className="secondaryText">Fault diagnosis & maintenance</span></li>
-                    </div>           
+                      
                 </div>
 
                 <div className='rait'>                   
