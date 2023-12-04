@@ -52,7 +52,7 @@ const Home = () => {
                         
 
                             {/*second mode*/}
-                            <div className="flexColCenter mode">
+                            <div className="flexCenter mode">
                                 <div className="flexStart">
                                 <div className="flexCenter icon">
                                         <BsFillChatDotsFill size={25}/>
