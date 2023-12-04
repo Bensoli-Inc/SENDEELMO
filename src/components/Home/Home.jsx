@@ -49,21 +49,7 @@ const Home = () => {
                     <div className="flexCenter contactModes">
 
                         {/*first row*/}
-                        <div className="flexColCenter row">
-                            <div className="flexColCenter mode">
-                                <div className="flexStart">
-                                    <div className="flexCenter icon">
-                                        <MdCall size={25}/>
-                                    </div>
-                                    <div className="flexColStart detail">
-                                        <span className="primaryText">Call</span>
-                                        <span className="secondaryText">0790998545</span>
-                                    </div>
-                                </div>
-                                <div className="flexCenter button" onClick={callMe}>
-                                    Call Us
-                                </div>
-                            </div>
+                        
 
                             {/*second mode*/}
                             <div className="flexColCenter mode">
