@@ -46,7 +46,7 @@ const Home = () => {
                 <div className='rait'>                   
                     {/*<div className="white-gradient light"/> */}
                     
-                    <div className="flexColCenter contactModes">
+                    <div className="flexCenter contactModes">
 
                         {/*first row*/}
                         <div className="flexColCenter row">
