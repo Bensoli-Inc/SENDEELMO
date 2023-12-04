@@ -124,9 +124,9 @@
 
 @media (max-width: 640px) {
     .hero-container{
-        padding: 0.6rem;
+        padding: 2.2rem;
         margin-top: 2rem;
-        padding-bottom: 4.5rem;
+        padding-bottom: 5rem;
         grid-template-columns: 1fr;
         background-size: auto; 
     }
