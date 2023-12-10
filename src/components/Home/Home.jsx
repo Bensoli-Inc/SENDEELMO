@@ -5,18 +5,7 @@ import {motion} from 'framer-motion'
 
 import {BsFillChatDotsFill} from 'react-icons/bs'
 
-function openWhatsApp () {
-    const phoneNumber = "+254790998545"
-    const whatsappLink = "https://wa.me/+254790998545"
-    window.open(whatsappLink)
-}
 
-
-function callMe () {
-        const phoneNumber = "+254790998545"
-        const telLink = "tel:" +254790998545;
-        window.location.href = telLink;
-    }
 
 const Home = () => {
     return (
@@ -51,21 +40,7 @@ const Home = () => {
                         {/*first row*/}
                         
 
-                            {/*second mode*/}
-                            <div className="flexCenter mode">
-                                <div className="flexStart">
-                                <div className="flexCenter icon">
-                                        <BsFillChatDotsFill size={25}/>
-                                    </div>
-                                    <div className="flexColStart detail">
-                                        <span className="primaryText">Whatsapp</span>
-                                        <span className="secondaryText">0790998545</span>
-                                    </div>
-                                </div>
-                                <div className="flexCenter button" onClick={openWhatsApp}>
-                                    Chat with us
-                                </div>
-                            </div>
+                           
 
                         </div>     
                     </div> 
