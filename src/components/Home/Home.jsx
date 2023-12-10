@@ -3,7 +3,7 @@ import './Home.css';
 import '@/components/Contact/Contact.css';
 import {motion} from 'framer-motion'
 
-
+import {BsFillChatDotsFill} from 'react-icons/bs'
 
 
 
@@ -33,17 +33,9 @@ const Home = () => {
                 </div>
 
                 <div className='rait'>                   
-                    {/*<div className="white-gradient light"/> */}
+                   <div className="white-gradient light"/> 
                     
-                    <div className="flexCenter contactModes">
-
-                        {/*first row*/}
-                        
-
-                           
-
-                        </div>     
-                    </div> 
+                    
                 </div>
                
                 
@@ -55,3 +47,6 @@ const Home = () => {
 
 export default Home;
 
+                    
+                    
+                    
