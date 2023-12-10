@@ -3,7 +3,7 @@ import './Home.css';
 import '@/components/Contact/Contact.css';
 import {motion} from 'framer-motion'
 
-import {BsFillChatDotsFill} from 'react-icons/bs'
+
 
 
 
