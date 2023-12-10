@@ -187,11 +187,11 @@
 }
 
 .sentelmo {
-    width: 10rem;
-    height: 10rem;
+    width: 100px;
+    height: 100px;
 }
 
-,sentelmo>img {
+.sentelmo>img {
     width: 100%;
     height: 100%;
 }
