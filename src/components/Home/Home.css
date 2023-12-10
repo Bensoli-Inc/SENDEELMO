@@ -175,7 +175,11 @@
         width:10rem;
         height: 10rem;
     }
-
+    .sentelmo>img {
+        width:100%;
+        height: 100%;
+    }
+}
 
 .bullet {
     height: 2rem;
