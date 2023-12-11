@@ -34,9 +34,7 @@ const Home = () => {
 
                 <div className='rait'>                   
                    <div className="white-gradient light"/> 
-                    <div className="sentelmo">
-                        <img src="./sentelmo.jpg" alt="" />
-                    </div>
+                   
             
                 </div>
                
