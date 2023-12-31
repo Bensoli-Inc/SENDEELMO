@@ -24,7 +24,7 @@ const Home = () => {
                             type: "spring"
                         }}
                         > 
-                            SENTELMO <br />
+                            SENTELM <br />
                             Engineering 
                             <br /> Services
                         </motion.h1>
