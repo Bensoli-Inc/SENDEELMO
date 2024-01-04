@@ -29,7 +29,7 @@ const Home = () => {
                     </div> 
                     <div className='description'>
                         <p className='secondaryText'>
-                        Illuminating spaces with innovation and <br /> expert electrical solutions.
+                        Illuminating spaces with innovation and expert electrical solutions.
                         </p>
                     </div> 
                     <div className="white-gradient light"/>    
