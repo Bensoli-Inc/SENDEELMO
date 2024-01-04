@@ -8,7 +8,7 @@ const Footer = () => {
                 
                 {/*left side*/}
                 <div className="flexColStart f-left">
-                    <img src="SET.jpg" alt="" width={120} />
+                    <img src="SET.jpg" alt="" width={180} />
 
                     <span className="secondaryText">
                     Illuminating spaces with innovation and safety, <br />
