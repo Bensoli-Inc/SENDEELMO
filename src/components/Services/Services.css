@@ -2,3 +2,20 @@
 .r-head {
     margin-bottom: 2rem;
 }
+
+.allService {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 2rem;
+}
+
+.primaryyText {
+    color: #3e56ded7;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.serv {
+    padding: 1rem;
+    margin: 2rem;
+}
