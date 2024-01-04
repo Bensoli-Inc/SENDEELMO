@@ -14,6 +14,40 @@ const Services = () => {
                     <span className="orangeText">Our Services</span>
                     <span className="primaryText">Popular Services</span>
                 </div>
+                <div className="flexColCenter paddings innerWidth">
+
+                    <div className="serv">
+                        <p className="primaryyText">
+                            New Wiring Installation
+                        </p>
+                    </div>
+
+                    <div className="serv">
+                        <p className="primaryyText">
+                            CCTV Installation
+                        </p>
+                    </div>
+
+                    <div className="serv">
+                        <p className="primaryyText">
+                            Solar Installation
+                        </p>
+                    </div>
+
+                    <div className="serv">
+                        <p className="primaryyText">
+                            Electric Fence installation
+                        </p>
+                    </div>
+
+                    <div className="serv">
+                        <p className="primaryyText">
+                            Fault Diagnosis & Maintenance
+                        </p>
+                    </div>
+
+                </div>
+                
             </div>
         </section>
     )
