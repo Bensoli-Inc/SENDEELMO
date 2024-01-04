@@ -24,11 +24,17 @@ const Home = () => {
                             type: "spring"
                         }}
                         > 
-                            SENTELM <br />
+                            SENTELMO <br />
                             Engineering 
                             <br /> Services
                         </motion.h1>
-                    </div>  
+                    </div> 
+
+                    <div className='description'>
+                        <p className='secondaryText'>
+                        Illuminating spaces with innovation and <br /> expert electrical solutions.
+                        </p>
+                    </div> 
                       
                 </div>
 
