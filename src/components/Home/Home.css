@@ -33,6 +33,11 @@ height: 100%;
     grid-template-columns: 1fr 1fr;
 }
 
+.hero-container.cover {
+    padding: 0rem;
+}
+
+
 .hero-container::before {
     position: absolute;
   top: 0;
@@ -58,7 +63,7 @@ height: 100%;
 }
 
 .hero-right{
-    margin: 1rem;
+    margin: 0rem;
    
 }
 
