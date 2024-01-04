@@ -10,7 +10,7 @@ import {BsFillChatDotsFill} from 'react-icons/bs'
 const Home = () => {
     return (
             <section>
-            <div className="paddings innerWidth hero-container ">
+            <div className=" innerWidth hero-container ">
                 
                 <div className="flexCenter hero-left " >
                     <div className="hero-title title1">
