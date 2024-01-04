@@ -1,4 +1,4 @@
-/*
+
 
 import React from "react";
 import './Services.css';
@@ -14,21 +14,6 @@ const Services = () => {
                     <span className="orangeText">Our Services</span>
                     <span className="primaryText">Popular Services</span>
                 </div>
-
-                <Swiper>
-                    {
-                        data.map((card, i)=> (
-                            <SwiperSlide key={i}>
-                                <div className="r-card">
-                                    <img src="{card.image}" alt="home" />
-                                    <span className="secondaryText r-price">
-                                       <span>$</span><span>{card.price}</span>
-                                    </span>
-                                </div>
-                            </SwiperSlide>
-                        ))
-                    }
-                </Swiper>
             </div>
         </section>
     )
@@ -36,4 +21,3 @@ const Services = () => {
 
 export default Services
 
-*/
