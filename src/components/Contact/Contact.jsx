@@ -72,7 +72,13 @@ const Contact = () => {
 
 
                 {/*right-side*/}
-                <div className="c-right">
+                <div className="c-right flexColCenter"> 
+                    <div className="CEO">
+                        <p className="primaryText"> 
+                            EGH. JONATHAN <br />
+                            CEO SENTELMO 
+                        </p>
+                    </div>
                     <div className="image-container">
                         <img src="./contactimage.jpg" alt="" />
                     </div>
