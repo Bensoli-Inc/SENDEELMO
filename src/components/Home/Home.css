@@ -1,4 +1,7 @@
-
+.description {
+    margin-top: 1rem;
+    margin-bottom: 2.5rem;
+}
 
 .hero-container {
     color: white;
@@ -64,6 +67,8 @@
 .hero-title {
     position: relative;
     z-index: 1;
+    margin-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
 .hero-title>h1{
