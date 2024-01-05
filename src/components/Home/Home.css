@@ -151,8 +151,8 @@ height: 100%;
     grid-template-columns: 1fr;
     }
     .hero-title>h1 {
-        font-size: 2.7rem;
-        line-height: 3.2rem;
+        font-size: 3rem;
+        line-height: 3.4rem;
     }
     .hero-left {
     gap: 0.8rem;
