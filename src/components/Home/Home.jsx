@@ -26,6 +26,11 @@ const Home = () => {
                                             <br /> Services
                                     </motion.h1>
                                 </div> 
+                                <div>
+                                    <p className='secondaryText'>
+                                        Illuminatig the world.
+                                    </p>
+                                </div>
                                 <div className="white-gradient light"/>
                     </div>
                    
