@@ -11,10 +11,7 @@ const Home = () => {
     return (
             <section>
             <div className=" innerWidth hero-container ">
-                <div className='cover'>  
-                <div className="white-gradient light"/>                 
-                        <img src="./john.jpg" alt="cover" />
-                </div>
+                
                 <div className="flexCenter hero-left " >
                     <div className="hero-title title1">
                         <motion.h1
@@ -30,7 +27,11 @@ const Home = () => {
                             <br /> Services
                         </motion.h1>
                     </div> 
-                     
+                    <div className="white-gradient light"/>
+                </div>
+                <div className='cover'>  
+                                
+                        <img src="./john.jpg" alt="cover" />
                 </div>
                 
             </div>
@@ -44,3 +45,4 @@ export default Home;
                     
                     
                     
+
