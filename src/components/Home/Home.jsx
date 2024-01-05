@@ -11,7 +11,9 @@ const Home = () => {
     return (
             <section>
             <div className=" innerWidth hero-container ">
-                
+                <div className='cover'>                   
+                        <img src="./john.jpg" alt="cover" />
+                </div>
                 <div className="flexCenter hero-left " >
                     <div className="hero-title title1">
                         <motion.h1
@@ -23,7 +25,7 @@ const Home = () => {
                         }}
                         > 
                             SENTELMO <br />
-                            Engineering 
+                            Electrical 
                             <br /> Services
                         </motion.h1>
                     </div> 
@@ -34,9 +36,7 @@ const Home = () => {
                     </div> 
                     <div className="white-gradient light"/>    
                 </div>
-                <div className='cover'>                   
-                        <img src="./john.jpg" alt="cover" />
-                </div>
+                
             </div>
             
             </section>           
