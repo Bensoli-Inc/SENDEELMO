@@ -28,7 +28,7 @@ const Home = () => {
                                 </div> 
                                 <div>
                                     <p className='secondaryText'>
-                                        Illuminatig the world with expert elecrical solutions.
+                                        Illuminatig the world.
                                     </p>
                                 </div>
                                 <div className="white-gradient light"/>
