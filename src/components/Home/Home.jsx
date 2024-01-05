@@ -34,8 +34,7 @@ const Home = () => {
                         <p className='secondaryText'>
                         Illuminating spaces with innovation and expert electrical solutions.
                         </p>
-                    </div> 
-                    <div className="white-gradient light"/>    
+                    </div>     
                 </div>
                 
             </div>
