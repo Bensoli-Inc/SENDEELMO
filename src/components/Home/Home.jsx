@@ -30,11 +30,7 @@ const Home = () => {
                             <br /> Services
                         </motion.h1>
                     </div> 
-                    <div className='description'>
-                        <p className='secondaryText'>
-                        Illuminating spaces with innovation and expert electrical solutions.
-                        </p>
-                    </div>     
+                     
                 </div>
                 
             </div>
