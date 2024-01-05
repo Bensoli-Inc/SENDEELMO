@@ -18,8 +18,9 @@ const Footer = () => {
 
 
                 <div className="f-rightflexColStart">
-                    <span className="primaryText">Information</span> <br />
-                    <span className="secondaryText">90100 Kitengela, Nairobi Kenya </span>
+                    <span className="secondaryText"> &#169; 2024 All rights Reserved <br /> Sentelmo Electrical Services </span> <br />
+                    
+                    <span className="secondaryText">90100 Kitengela, <br /> Nairobi Kenya </span>
                 
                     <div className="flexCenter f-menu">
                         <span>Home</span>
