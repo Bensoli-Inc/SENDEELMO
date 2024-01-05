@@ -105,8 +105,8 @@ a {
 }
 
 @media (max-width: 640px) {
-  .primaryyText {
-    font-size: 1.2rem;
+  .primaryText {
+    font-size: 1.5rem;
   }
   .orangeText {
     font-size: 1.2rem;
@@ -133,6 +133,6 @@ a {
 
 @media (max-width: 1000px) {
   .secondaryText {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
   }
 }
