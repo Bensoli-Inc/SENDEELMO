@@ -1,7 +1,5 @@
 
-.r-head {
-    margin-bottom: 2rem;
-}
+
 
 .allService {
     display: grid;
@@ -17,5 +15,4 @@
 
 .serv {
     padding: 1rem;
-    margin-bottom: 2rem;
 }
