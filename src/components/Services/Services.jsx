@@ -10,11 +10,10 @@ const Services = () => {
     return (
         <section className="r-wrapper">
             <div className="paddings innerWidth r-container">
-                <div className="r-head flexColStart">
+                <div className="r-head flexColCenter">
                     <span className="orangeText">Our Services</span>
                     <span className="primaryText">Popular Services</span>
-                </div>
-                <div className="flexColCenter paddings innerWidth">
+                    <div className="flexColStart paddings innerWidth">
 
                     <div className="serv">
                         <p className="primaryyText">
@@ -46,8 +45,8 @@ const Services = () => {
                         </p>
                     </div>
 
+                     </div>
                 </div>
-                
             </div>
         </section>
     )
