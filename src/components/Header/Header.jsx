@@ -16,7 +16,7 @@ const Header = () => {
          <section className="h-wrapper">
             <div className="flexCenter innerWidth paddings h-container">
                <div>
-                      />
+                      
                 </div>
                 
             <OutsideClickHandler
