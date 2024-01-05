@@ -11,7 +11,8 @@ const Home = () => {
     return (
             <section>
             <div className=" innerWidth hero-container ">
-                <div className='cover'>                   
+                <div className='cover'>  
+                <div className="white-gradient light"/>                 
                         <img src="./john.jpg" alt="cover" />
                 </div>
                 <div className="flexCenter hero-left " >
