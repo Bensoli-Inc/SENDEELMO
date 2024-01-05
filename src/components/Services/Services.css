@@ -16,3 +16,10 @@
 .serv {
     padding: 1rem;
 }
+
+@media (max-width: 640px) {
+    .primaryyText {
+      font-size: 1.2rem;
+    }
+    
+  }
