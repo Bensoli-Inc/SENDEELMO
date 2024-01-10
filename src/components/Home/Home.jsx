@@ -22,7 +22,7 @@ const Home = () => {
                                         }}
                                         > 
                                             SENTELMO <br />
-                                            Electrical 
+                                            Electrica 
                                             <br /> Services
                                     </motion.h1>
                                 </div> 
